@@ -9,7 +9,7 @@
 
 <main class="main">
   <section class="about-short">
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa praesentium inventore sunt, libero. Architecto nostrum dignissimos, reiciendis corporis distinctio inventore repellendus quia minus voluptas aperiam at dolorem quos doloribus quam.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa praesentium inventore sunt, libero. Architecto nostrum dignissimos, reiciendis corporis distinctio inventore repellendus quia minus voluptas aperiam at dolorem quos doloribus.</p>
   </section>
   <div class="fp-container">
     <div class="fp-content">
