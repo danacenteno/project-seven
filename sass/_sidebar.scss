@@ -1,4 +1,5 @@
 .sidebar {
+<<<<<<< HEAD
 	min-height: 100%;
 	padding: 20px;
 	width: 30%;
@@ -9,6 +10,13 @@
 		margin: 0;
 		padding: 0;
 	
+=======
+	width: 30%;
+	float: left;
+	ul {
+		margin: 0;
+		padding: 0;
+>>>>>>> c33035f6728b2e00faa5af89d06e11388b7f3be8
 		li {
 			list-style: none;
 		}

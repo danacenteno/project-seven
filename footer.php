@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 <footer class="bottom-footer">
   <div class="container">
     <p>&copy; Dana Centeno <?php echo date('Y'); ?></p>
+=======
+<footer>
+  <div class="container">
+    <p>&copy; HackerYou <?php echo date('Y'); ?></p>
+>>>>>>> c33035f6728b2e00faa5af89d06e11388b7f3be8
   </div>
 </footer>
 

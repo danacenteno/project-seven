@@ -4,6 +4,7 @@
 	Template Name: Full Page, No Sidebar
 */
 
+<<<<<<< HEAD
 //header
 get_header();  ?>
 
@@ -14,6 +15,12 @@ get_header();  ?>
 <!-- main content -->
 <div class="main">
   <div class="page-container">
+=======
+get_header();  ?>
+
+<div class="main">
+  <div class="container">
+>>>>>>> c33035f6728b2e00faa5af89d06e11388b7f3be8
     <?php // Start the loop ?>
     <?php if ( have_posts() ) while ( have_posts() ) : the_post(); ?>
 
